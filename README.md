@@ -1,2 +1,2 @@
 # DATV
-Système ebrqué pour DATV sous GNU/LINUX et Raspberry.
+Système embarqué pour DATV sous GNU/LINUX et Raspberry.
